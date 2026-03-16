@@ -1,25 +1,67 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Counter App
 
-# Run and deploy your AI Studio app
+A simple and beginner-friendly React Counter Application built using JavaScript (JSX).  
+This app demonstrates how to use the React useState hook to manage state.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/313e8efd-e3f2-4037-8672-e90a92bd1f4c
+## 🚀 Features
 
-## Run Locally
+- Increment counter
+- Decrement counter
+- Reset counter
+- Clean and simple UI
+- Beginner-friendly React example
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Technologies Used
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-=======
-# Counter-App
-A simple React Counter App with increment, decrement, and reset functionality.
->>>>>>> 36ecf2c4d58a5fd3d34bb594aaf6633cb7d2e3ee
+- React
+- JavaScript (JSX)
+- CSS
+
+---
+
+## 📦 Installation
+
+Clone the repository
+
+git clone https://github.com/UmangBheda/Counter-App.git
+
+Go to the project folder
+
+cd Counter-App
+
+Install dependencies
+
+npm install
+
+Run the project
+
+npm run dev
+
+---
+
+## 📸 Project Preview
+
+Counter app UI with buttons for increment, decrement, and reset functionality.
+
+---
+
+## 📚 Learning Purpose
+
+This project helps beginners understand:
+
+- React components
+- useState hook
+- Event handling in React
+- Basic UI structure
+
+---
+
+## 👨‍💻 Author
+
+Developed by **Umang Bheda**
+
+GitHub: https://github.com/UmangBheda
